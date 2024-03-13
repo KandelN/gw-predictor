@@ -163,4 +163,4 @@ cython_debug/
 # specific files
 References.md
 DeepTubeWell_Data.xlsx
-notebook_gpr.ipynb
+cleaned-qdata.csv
