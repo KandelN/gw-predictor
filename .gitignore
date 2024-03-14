@@ -161,6 +161,5 @@ cython_debug/
 
 
 # specific files
-References.md
-DeepTubeWell_Data.xlsx
-cleaned-qdata.csv
+data/
+references/
