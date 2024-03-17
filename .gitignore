@@ -160,6 +160,5 @@ cython_debug/
 #.idea/
 
 
-# specific files
-data/
-references/
+# Original Data File
+data/DeepTubeWell_Data.xlsx
