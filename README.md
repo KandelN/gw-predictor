@@ -32,11 +32,11 @@ Variance = 5 <br>
 Limited-memory Broyden-Fletcher-Goldfarb-Shanno (L-BFGS)
 
 ## Results
-**Scatter Plot of Actual Discharge vs Predicted Discharge**
-![image](https://raw.githubusercontent.com/KandelN/gw-predictor/main/images/Qact_Qpre.png)
+**Scatter Plot of Actual Discharge vs Predicted Discharge**<br>
+<img src="https://raw.githubusercontent.com/KandelN/gw-predictor/main/images/Qact_Qpre.png" alt="Q_act vs Q_pred" height="500"/>
 
-**1D Cross section of prediction model along x-axis**
-![image](https://raw.githubusercontent.com/KandelN/gw-predictor/main/images/interval.png)
+**1D Cross section of prediction model along x-axis**<br>
+<img src="https://raw.githubusercontent.com/KandelN/gw-predictor/main/images/interval.png" alt="Q_act vs Q_pred" height="500"/>
 
 ## Data Courtesy
 [Kathmandu Upatyaka Khanepani Limited](https://kathmanduwater.org/)
