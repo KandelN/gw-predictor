@@ -13,5 +13,3 @@
 # Pytorch references:
 * https://colab.research.google.com/drive/1eizX1B3jE0bbCdCF0_sxc0MF4_3zgbD3#scrollTo=v7C8j0qSSs9J
 * https://colab.research.google.com/drive/1lQ3xxfsNzAvYGZGayWicLL-41dpr_WIK
-
-

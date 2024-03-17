@@ -13,7 +13,7 @@ GW-predictor uses the following Python packages:
 * [GPy](https://gpy.readthedocs.io/en/deploy/)
 
 ## Data Description
-A [sample](https://github.com/kandelN/gw-predictor/data/DeepTubeWell_Data-SAMPLE.xlsx) of original data file is provided in data folder. Each well have their unique well ids. Multiple row entry for with same well id represent data for multiple depth of the soil layer below ground level. First row entry of each well ids have discharge and other hydraulic properties associated with the specific well. 
+A [sample](https://github.com/KandelN/gw-predictor/blob/main/data/DeepTubeWell_Data-SAMPLE.xlsx) of original data file is provided in data folder. Each well have their unique well ids. Multiple row entry for with same well id represent data for multiple depth of the soil layer below ground level. First row entry of each well ids have discharge and other hydraulic properties associated with the specific well. 
 
 ## Preprocessing
 Following steps are considered for preprocessing process:
