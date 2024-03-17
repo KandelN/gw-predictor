@@ -33,7 +33,7 @@ Limited-memory Broyden-Fletcher-Goldfarb-Shanno (L-BFGS)
 
 ## Results
 **Scatter Plot of Actual Discharge vs Predicted Discharge**
-![image](https://raw.githubusercontent.com/KandelN/gw-predictor/main/images/Qact_Qpre.jpg)
+![image](https://raw.githubusercontent.com/KandelN/gw-predictor/main/images/Qact_Qpre.png)
 
 **1D Cross section of prediction model along x-axis**
 ![image](https://raw.githubusercontent.com/KandelN/gw-predictor/main/images/interval.png)
