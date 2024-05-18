@@ -1,7 +1,7 @@
 # GW-predictor - Groundwater Prediction Using Machine Learning
 GW-predictor is a research project written in Python that aims to predict the groundwater discharge potential at any coordinate specified. At the moment, the project is trained for Kathmandu Valley and ready to use for predicting discharge within Kathmandu. Training and testing of Gaussian Process Model is implemented in jupyter lab interface with the use of python package GPy. Keeping in mind that very few data is used for training the model, it's relatively low accuracy of prediction is not a surprise.
 
-GW-predictor is a result of work for the 'Code for Nepal Datacrunch Hackathon' by team Lithosphere. Members of team Lithosphere include [Nelson Kandel](https://www.linkedin.com/in/nelsonkandel/), [Samriddhi Ghimire](https://www.linkedin.com/in/er-samriddhi-ghimire-522803215/) and [Prabesh Gyawali](https://www.linkedin.com/in/prabesh-gyawali-9849952a0/). Team Lithosphere succeded to secure the second position in the hackathon.
+GW-predictor is a result of work for the 'Code for Nepal Datacrunch Hackathon' by team Lithosphere. Members of team Lithosphere include [Nelson Kandel](https://www.linkedin.com/in/nelsonkandel/), [Samriddhi Ghimire](https://www.linkedin.com/in/samriddhi-ghimire-522803215/) and [Prabesh Gyawali](https://www.linkedin.com/in/prabesh-gyawali-9849952a0/). Team Lithosphere succeded to secure the second position in the hackathon.
 
 Gw-predictor is availabe under the MIT license. We'd love to incroporate your changes, so fork us.
 ## Requirements
